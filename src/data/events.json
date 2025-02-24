@@ -1,113 +1,15 @@
 [
   {
-    "eventName": "Apache Kafka® x Grafana Meetup",
-    "eventDescription": "Join us for our first IN PERSON Apache Kafka® meetup on Feb 1st from 10:00 am, hosted by Humbletree Cloud Private Limited in Coimbatore!",
-    "eventDate": "2025-02-01",
-    "eventTime": "10:00",
-    "eventVenue": "Humbletree Cloud, 6, Ground Floor, DVT Towers, nehru nagar west, Coimbatore ",
-    "eventLink": "https://meetu.ps/e/NLPSk/kmD4l/i",
-    "location": "Coimbatore",
-    "communityName": "Confluent",
-    "communityLogo": "https://secure.meetupstatic.com/photos/event/d/1/3/3/clean_525293555.webp"
-  },
-  {
-    "eventName": "Kubernetes Community Days Chennai 2025",
-    "eventDescription": "Kubernetes Community Days Chennai 2025 is a community-organized conference supported by the Cloud Native Computing Foundation (CNCF) to help grow and sustain the Kubernetes and cloud-native community in Chennai. It gathers adopters and technologists from open source and cloud-native communities for education, collaboration, and networking.",
-    "eventDate": "2025-04-26",
-    "eventTime": "08:30",
-    "eventVenue": "Sathyabama University",
-    "eventLink": "https://community.cncf.io/kcd-chennai/",
-    "location": "Chennai",
-    "communityName": "KCD Chennai",
-    "communityLogo": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,w_500,h_500,g_center/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-cncf/events/Logo_White_Background_eSFH3vi.png"
-  },
-  {
-    "eventName": "JSLovers Chennai Meetup 4",
-    "eventDescription": "First Meetup of 2025 from JSLovers Chennai Chapter.",
-    "eventDate": "2025-02-08",
-    "eventTime": "02:00",
-    "eventVenue": "YuniQ, 4th Floor, Ticel Bio Park, Tharamani",
-    "eventLink": "https://lu.ma/lkbhe6ep",
-    "location": "Chennai",
-    "communityName": "JSLovers",
-    "communityLogo": "https://i.ibb.co/89fw9p0/1718639979394.jpg"
-  },
-  {
-    "eventName": "The Global AI Bootcamp",
-    "eventDescription": "The Global AI Bootcamp is an annual event that occurs worldwide, where developers and AI enthusiasts can learn about AI through workshops, sessions, and discussions. Local chapters of the Global AI Community host the events in various locations across the globe.",
-    "eventDate": "2025-03-01",
-    "eventTime": "10:00",
-    "eventVenue": "St Joseph's College Of Engineering Off, Old Mahabalipuram Road, Kamaraj Nagar, Semmancheri, Chennai, Tamil Nadu 600119 · Chennai",
-    "eventLink": "https://www.meetup.com/innovationai-chennai/events/304777565/",
-    "location": "Chennai",
-    "communityName": "Azure Development Community Tamilnadu",
-    "communityLogo": "https://i.ibb.co/PWB3xkp/1731223560054.jpg"
-  },
-  {
-    "eventName": "FOSS meetup Pondicherry",
-    "eventDescription": "First FOSS meetup of the FOSS United Pondicherry community!",
-    "eventDate": "2025-02-15",
-    "eventTime": "14:00",
-    "eventVenue": "Zemuria Inc., 3rd Floor, Pulsebay Coworking HQ",
-    "eventLink": "https://fossunited.org/c/pondicherry/2025-feb",
-    "location": "Pondicherry",
-    "communityName": "FOSS United Pondicherry",
-    "communityLogo": "https://i.ibb.co/vm4vm6g/fosspondy.jpg"
-  },
-  {
-    "eventName": "Hackers Thiruvizha",
-    "eventDescription": "The ultimate offline hackathon where creativity meets technology! Get ready for an electrifying day filled with brainstorming, building, and bonding with like-minded tech enthusiasts.  ",
-    "eventDate": "2025-02-08",
-    "eventTime": "09:00",
-    "eventVenue": "St Joseph's College Of Engineering, Chennai",
-    "eventLink": "https://event.tixon.app/HackersThiruvizha",
-    "location": "Chennai",
-    "communityName": "Code on JVM",
-    "communityLogo": "https://i.ibb.co/j9GsWdGk/codeonjvm.jpg"
-  },
-  {
-    "eventName": "Chennai React Anniversary Mega Meetup",
-    "eventDescription": "Chennai React is Turning 1 and we are celebrating our 1-year anniversary with a mega meetup",
-    "eventDate": "2025-03-01",
-    "eventTime": "10:00",
-    "eventVenue": "Comcast, Chennai One SEZ, 5th Floor, North Block in Phase II, Thoraipakkam, Chennai",
-    "eventLink": "https://lu.ma/nn29gvkj",
-    "location": "Chennai",
-    "communityName": "Chennai React",
-    "communityLogo": "https://avatars.githubusercontent.com/u/175532518"
-  },
-  {
-    "eventName": "FOSS Hack SSN",
-    "eventDescription": "FOSS Hack local host at SSN College of Engineering.",
-    "eventDate": "2025-02-22",
-    "eventTime": "08:00",
-    "eventVenue": "SSN College of Engineering, SH 49A, Kalavakkam, Tamil Nadu 603110",
-    "eventLink": "https://fossunited.org/hack/fosshack25/host/chennai-ssn",
-    "location": "Chennai",
-    "communityName": "FOSS United",
-    "communityLogo": "https://i.ibb.co/23TrwMyH/1738389876909.jpg"
-  },
-  {
-    "eventName": "The AI Connect (TAI) hosted by TSI Technologies",
-    "eventDescription": "​This full-day event is designed to immerse you in the latest AI trends, hands-on workshops, and insightful tech sessions led by industry experts. With interactive discussions, real-world applications, and networking opportunities, this is your chance to learn, connect, and innovate with fellow AI enthusiasts.",
-    "eventDate": "2025-02-22",
-    "eventTime": "10:00",
-    "eventVenue": "TSI Technologies Private Limited 4th Floor, Prestige Cosmopolitan 38, Sardar Patel Rd, Little Mount, Guindy, Chennai, Tamil Nadu 600034, India",
-    "eventLink": "https://lu.ma/v9ehcxv6",
-    "location": "Guindy, Chennai",
-    "communityName": "The AI Connect (TAI)",
-    "communityLogo": "https://tai-events.s3.eu-central-1.amazonaws.com/01_Tai+4+(2).svg"
-  },
-  {
     "eventName": "Mastering Fabric Analytics with Power BI",
     "eventDescription": "Dive into Fabric Analytics with Power BI—insights from 4 industry experts, live demos, an interactive hands-on session, and network with the Chennai Data Circle (CDC) community.",
-    "eventDate": "2025-02-22",
+    "eventDate": "2025-03-01",
     "eventTime": "10:00",
-    "eventVenue": "Presidio Solutions, Indiqube Alphine, Ekkatuthangal, Guindy, Chennai, Tamil Nadu",
-    "eventLink": "https://lu.ma/o35x7jqh",
+    "eventVenue": "Ford GTBC, Elcot Sez, Sholinganallur, Chennai, Tamil Nadu",
+    "eventLink": "https://meetu.ps/e/NT3c9/13fMYs/i",
     "location": "Chennai",
     "communityName": "Chennai Data Circle",
     "communityLogo": "https://i.ibb.co/vCwTKt4w/Chennai-Data-Circle-CDC-Logo.png"
+<<<<<<< HEAD
   },
   {
     "eventName": "KCD Chennai Konnekt",
@@ -152,5 +54,7 @@
     "location": "Chennai",
     "communityName": "build2learn",
     "communityLogo": "https://i.ibb.co/CBsgh43/bxOxo5O.png"
+=======
+>>>>>>> bd4bcc5 (added Ford Fibonacci event)
   }
 ]
