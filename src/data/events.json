@@ -64,5 +64,16 @@
     "location": "Chennai",
     "communityName": "Chennaipy",
     "communityLogo": "https://res.cloudinary.com/dwir71gi2/image/upload/v1737382622/chennaipy_ovbthm.png"
+  },
+  {
+    "eventName": "CDC Data Odyssey",
+    "eventDescription": "Chennai Data Circle (CDC) proudly presents CDC Data Odyssey, our 1st Annual Mega Conference - A landmark event AKA #DataThiruvizha, that brings together the brightest minds, rising talent, and trailblazing professionals from Chennai’s vibrant data community.",
+    "eventDate": "2025-08-09",
+    "eventTime": "10:00",
+    "eventVenue": "Ford Global Technology and Business Center, ELCOT Sez, Shollingallur, Chennai, Tamil Nadu 600119",
+    "eventLink": "https://lu.ma/4bnarpjn?tk=62MaiB",
+    "location": "Chennai",
+    "communityName": "Chennai Data Circle",
+    "communityLogo": "https://i.ibb.co/vCwTKt4w/Chennai-Data-Circle-CDC-Logo.png"
   }
 ]
